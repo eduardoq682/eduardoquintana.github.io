@@ -1,4 +1,3 @@
-# eduardoquintana.github.io
 # Projects and Engineering Experiences
 # FPGA Projectile Game
 
